@@ -1,7 +1,8 @@
 # e-commerce
 
 ## Project
-- I built this portfolio to showcase my 5 projects
+- This is an e-commerce website made to showcase my ability to develop a responsive landing page with products listed. Provides support for search engine optimization for higher indexing through Google’s search engine crawler. The entirety of the project was developed by me without following a guide.
+- Design assets can be viewed here https://frontendsimplified.com/projects/ecommerce
 
 ### Built with
 
